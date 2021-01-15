@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 📫 How to reach me:
+
 changhyunmungai@gmail.com
+
 www.linkedin.com/in/changhyunmungai 
 
 <!--
