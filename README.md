@@ -1,16 +1,20 @@
 ### Hi there 👋
 
+Software engineer with a background in Mechanical Engineering. Passionate about technology and it's role in solving our problems, from minor inconviniences to global crisis.
 
-📫 How to reach me:
+### 📫 How to reach me:
 
 changhyunmungai@gmail.com
 
 www.linkedin.com/in/changhyunmungai 
 
 
+### Interests
 
-
-Interested in diversity/inclusion, health, education, soccer, and projects around them.
+Diversity and inclusion
+Health
+Education
+Soccer
 
 
 <!--
