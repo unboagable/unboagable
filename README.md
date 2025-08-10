@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Software Engineer experienced in backend development from CI/CD, distributed computing, to ETL pipelines.
+
 Bachelors in Mechanical Engineering from Carnegie Mellon University, minors in Computer Science and Business Administration.
  
 ## 🌐 Socials:
