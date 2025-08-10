@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Software Engineer experienced in backend development from CI/CD, distributed computing, to ETL pipelines.
-Bachelors in Mechanical Engineering from Carnegie Mellon University. Minors in Computer Science and Business Administration.
+Bachelors in Mechanical Engineering from Carnegie Mellon University, minors in Computer Science and Business Administration.
  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/changhyunmungai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:changhyunmungai@gmail.com) 
